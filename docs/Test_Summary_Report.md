@@ -21,14 +21,17 @@ The following areas were tested:
 | Checkout | PASS |
 | Logout | PASS |
 
+## Issues
+
+1 open issue found:
+- Login error message is too long and technical (Low severity).
+
 ## Test Summary
 
-All planned functional checks were completed successfully.
+All planned functional checks were completed.
 
-The tested functionality worked as expected.
-
-No critical issues were found during testing.
+The tested functionality worked as expected, except for one minor issue on the Login page.
 
 ## Conclusion
 
-The tested SauceDemo functionality is working as expected based on the executed test scenarios.
+The SauceDemo functionality is working as expected, with one minor open issue.
