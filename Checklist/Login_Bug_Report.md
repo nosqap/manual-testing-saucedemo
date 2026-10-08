@@ -1,19 +1,19 @@
 # Bug Report — Login Error Message
 
 ## Title
-Неверное сообщение при вводе неправильного пароля
+Incorrect message when entering the wrong password
 
 ## Steps to Reproduce
-1. Открыть страницу Login
-2. Ввести правильный Username
-3. Ввести неправильный Password
-4. Нажать Login
+1. Open the Login page
+2. Enter the correct username
+3. Enter the incorrect password
+4. Click Login
 
 ## Actual Result
-Система показывает: "Login failed"
+The system displays: "Login failed"
 
 ## Expected Result
-Система должна показать: "Invalid username or password"
+The system should display: "Invalid username or password"
 
 ## Severity
 Medium
