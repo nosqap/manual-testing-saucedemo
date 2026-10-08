@@ -1,3 +1,3 @@
-TC-01	Ввести правильный Username и Password	Пользователь успешно входит в систему
-TC-02	Ввести правильный Username и неправильный Password	Система показывает ошибку авторизации
-TC-03	Оставить Username пустым	Система сообщает, что Username обязателен
+TC-01	Enter correct Username and Password	User successfully logs into the system
+TC-02	Enter correct Username and incorrect Password	System displays an authorization error
+TC-03	Leave Username blank	System indicates that the Username is required
