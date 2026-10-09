@@ -10,7 +10,7 @@ Login error message is too long and technical
 4. Click Login.
 
 ## Actual Result
-The system displays: "Username and password do not match any user in this service".
+The system displays: "Epic sadface: Username and password do not match any user in this service"
 
 ## Expected Result
 The system should display a shorter and clearer message for the user.
