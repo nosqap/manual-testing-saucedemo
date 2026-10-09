@@ -15,7 +15,7 @@ The following areas were tested:
 
 | Area | Result |
 |---|---|
-| Login | PASS |
+| Login | PASS (1 low issue) |
 | Products | PASS |
 | Cart | PASS |
 | Checkout | PASS |
