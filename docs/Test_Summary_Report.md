@@ -35,3 +35,6 @@ The tested functionality worked as expected, except for one minor issue on the L
 ## Conclusion
 
 The SauceDemo functionality is working as expected, with one minor open issue.
+
+## Notes
+- Checkout ZIP field accepts letters — no validation found. Checked manually, not logged as a bug.
